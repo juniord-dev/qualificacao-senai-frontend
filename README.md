@@ -32,4 +32,7 @@ https://github.com/juniord-dev/qualificacao-senai-frontend
   ❯ npm start
 ```
 ---
+
 Aprendendo a criar novas branch
+#### Iniciando o aprendizado da criação de branches.
+
